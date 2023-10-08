@@ -1,4 +1,4 @@
-# justduit
+# JustDuit
 
 A new Flutter project.
 
